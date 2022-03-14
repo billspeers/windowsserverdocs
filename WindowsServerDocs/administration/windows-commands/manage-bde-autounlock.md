@@ -13,6 +13,8 @@ ms.date: 10/16/2017
 
 Manages the automatic unlocking of BitLocker-protected data drives.
 
+** NOTE ** Can not be used with external usb drives!!!
+
 ## Syntax
 
 ```
